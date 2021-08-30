@@ -1,0 +1,2 @@
+C:\Users\Kevin\Documents\Coding\C++\Directives\Debug\Directives.exe
+C:\Users\Kevin\Documents\Coding\C++\Directives\Debug\Directives.pdb

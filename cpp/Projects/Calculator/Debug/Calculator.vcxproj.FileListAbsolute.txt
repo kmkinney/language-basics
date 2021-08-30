@@ -1,0 +1,2 @@
+C:\Users\Kevin\Documents\Coding\C++\Calculator\Debug\Calculator.exe
+C:\Users\Kevin\Documents\Coding\C++\Calculator\Debug\Calculator.pdb

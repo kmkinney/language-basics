@@ -1,0 +1,4 @@
+﻿  Variables.cpp
+C:\Users\Kevin\Documents\Coding\C++\Variables\Variables.cpp(29,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kevin\Documents\Coding\C++\Variables\Variables.cpp(30,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Variables.vcxproj -> C:\Users\Kevin\Documents\Coding\C++\Variables\Debug\Variables.exe

@@ -1,0 +1,4 @@
+C:\Users\Kevin\source\repos\Variables\Debug\Variables.exe
+C:\Users\Kevin\source\repos\Variables\Debug\Variables.pdb
+C:\Users\Kevin\Documents\Coding\C++\Variables\Debug\Variables.exe
+C:\Users\Kevin\Documents\Coding\C++\Variables\Debug\Variables.pdb

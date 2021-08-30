@@ -1,0 +1,4 @@
+C:\Users\Kevin\source\repos\InputOutput\Debug\InputOutput.exe
+C:\Users\Kevin\source\repos\InputOutput\Debug\InputOutput.pdb
+C:\Users\Kevin\Documents\Coding\C++\InputOutput\Debug\InputOutput.exe
+C:\Users\Kevin\Documents\Coding\C++\InputOutput\Debug\InputOutput.pdb
